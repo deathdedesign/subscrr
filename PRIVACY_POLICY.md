@@ -45,4 +45,4 @@ Children’s Privacy
 Subcrr is not intended for children under 13, and we do not knowingly collect data from children.
 
 Contact
-If you have questions, contact: support@subscrr.app
+If you have questions, contact: cunaref@gmail.com
