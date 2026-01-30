@@ -1,7 +1,7 @@
-Privacy Policy for Subcrr
+Privacy Policy for Subscrr
 Last updated: 2026-01-30
 
-Subcrr helps you track subscriptions. This policy explains what data we handle and why.
+Subscrr helps you track subscriptions. This policy explains what data we handle and why.
 
 Summary
 - Account: Sign in with Apple is used to authenticate you.
@@ -42,7 +42,7 @@ Security
 We use Apple’s secure services (Sign in with Apple, Keychain, and CloudKit) to protect your data.
 
 Children’s Privacy
-Subcrr is not intended for children under 13, and we do not knowingly collect data from children.
+Subscrr is not intended for children under 13, and we do not knowingly collect data from children.
 
 Contact
 If you have questions, contact: cunaref@gmail.com
